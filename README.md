@@ -16,9 +16,14 @@
 
 ## Table of Contents
 
+- [Desgin](#design)
 - [Architecture](#architechture)
 - [Building](#building)
 - [Contributors](#contributors)
+
+## Design
+
+View the [Figma mockups](https://www.figma.com/file/ewpNJiDFZA4UPgdw9D9Ye6/Mockups?type=design&node-id=0%3A1&mode=design&t=l5WfiuBnGkl2U6cU-1).
 
 ## Architechture
 
